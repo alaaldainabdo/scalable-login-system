@@ -241,16 +241,4 @@ If you like this project, don’t forget to:
 
 ---
 
-```
 
----
-
-# 🎉 جاهز للنشر الآن
-إذا تريد أحول لك الـ README إلى:
-
-✅ ملف Word
-✅ PDF
-✅ أضيف صور توضيحية
-✅ أضيف Diagram Architecture
-فقط قل: **"أريد نسخة للـ Word"** أو **"أريد نسخة PDF"**.
-```
