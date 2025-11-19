@@ -226,7 +226,7 @@ This project supports future scaling:
 ## 👨‍💻 Author
 
 **Ala AlDain Abdo**
-Full-Stack Developer | Cybersecurity Enthusiast
+Full-Stack Developer | Software Architecture & System Design
 GitHub: [https://github.com/alaaldainabdo](https://github.com/alaaldainabdo)
 
 ---
